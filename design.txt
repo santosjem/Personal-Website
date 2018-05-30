@@ -1,0 +1,6 @@
+So I want this website to tell a story so I think that the final design
+that I'm going to go with is a single page website. I want the website to
+slowly tell my story as the users scroll down the page. Maybe
+have a separate page for my photography portfolio but maybe not since I could
+just showcase those in the single page.
+I expect the design for this website to change often.
